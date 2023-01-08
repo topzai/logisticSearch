@@ -12,9 +12,10 @@ pip install selenium
 
 pip install selenium-wire
 
-2.chrome 浏览器驱动安全
-安装chrome 浏览器
-下载对应版本的chromedriver.exe驱动
+2.浏览器驱动安装
+
+下载安装 google-chrome 浏览器 和下载对应版本的chromedriver.exe驱动
+
 ## 执行
 执行main.py获取快递信息
 
