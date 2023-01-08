@@ -21,4 +21,4 @@ pip install selenium-wire
 
 python main.py
 
-如果觉得好用给个免费的星星吧
+# 如果觉得好用给个免费的星星吧
