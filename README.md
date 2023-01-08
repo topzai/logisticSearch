@@ -21,4 +21,8 @@ pip install selenium-wire
 
 python main.py
 
+## 快递公司添加
+
+def kuaidiComy(self,kuaidiCompy) 中添加新的公司缩写和全称
+
 # 如果觉得好用给个免费的星星吧
