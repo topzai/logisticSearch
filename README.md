@@ -5,8 +5,11 @@ python使用百度的快递100接口查询物流状态
 1.pip 环境安装
 
 pip install requests
+
 pip install pyyaml
+
 pip install selenium
+
 pip install selenium-wire
 
 2.chrome 浏览器驱动安全
